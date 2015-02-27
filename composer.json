@@ -1,0 +1,13 @@
+{
+    "name": "ptraverse/ct2",
+    "description": "Camille Traverse",
+    "authors": [
+        {
+            "name": "Philippe Traverse",
+            "email": "philippe.traverse@gmail.com"
+        }
+    ],
+    "require": {
+	"zurb/foundation": "dev-master"
+	}
+}
